@@ -1,6 +1,6 @@
 # VINS-Stereo：基于VINS-Mono的双目VIO系统开发
 
-## Update on 18/11/2022
+## Update on 19/11/2022
 1. rewrite ```feature_manager.cpp``` and change ```trianglute()``` which use left and right to triangulate.
 2. rewrite ```initial_sfm.cpp```:
    (1)add ```triangulateLeftAndRight()``` which use left and right to triangulate. 
