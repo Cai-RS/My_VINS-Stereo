@@ -11,7 +11,7 @@ In VIO with two cameras, the input information of vision doubled. So it is easie
 But it is more computational consuming in frontend tracking. 
 
 ## Earlier Info
-这个系统是基于香港科技大学飞行机器人组的开源框架VINS-Mono开发的，原开源框架是针对单目SLAM。本双目SLAM系统是在原开源框架基础上的二次深度开发，外部接口与原框架一致。您可以依此对比原开源框架[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)或[VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)与本系统的区别。这个项目是我的研究课题项目，非商业用途，感谢HKUST的沈老师课题组提供的开源框架。
+这个系统是基于香港科技大学飞行机器人组的开源框架VINS-Mono开发的，原开源框架是针对单目SLAM。本双目SLAM系统是在原开源框架基础上的二次深度开发，外部接口与原框架一致。您可以依此对比原开源框架[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)或[VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)与本系统的区别。非商业用途，感谢HKUST的沈老师课题组提供的开源框架。
 
 
 ## 1.需要的基本配置
